@@ -1,0 +1,28 @@
+body{
+	
+}
+header{
+	background-color: #000;
+}
+
+#slides{
+	background-image: url("../img/bg-sliders.jpg");
+	color:white;
+}
+
+#banners{
+	padding: 5%;
+}
+
+#product{
+	padding: 5%;
+}
+#clients-footer{
+	padding: 5%;
+}
+
+footer{
+	background-color: #323232;
+	color: #6B7A90;
+	padding: 5%;
+	text-align: center;
